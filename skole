@@ -1,0 +1,26 @@
+{
+  "name": "Republicko takmicenje 2016/2017",
+  "skole": [
+    {
+      "key": "lazakostic",
+      "name": "Gimnazija Laza Kostic",
+      "code": "GLK"
+    },
+    {
+      "key": "dvanaesta",
+      "name": "Dvanaesta Beogradska Gimnazija",
+      "code": "DBG"
+    },
+    {
+      "key": "prvakragujevacka",
+      "name": "Prva Kragujevacka Gimnazija",
+      "code": "PKG"
+    },
+    {
+      "key": "elektrotehnickajagodina",
+      "name": "Elektrotehnicka skola Jagodina",
+      "code": "ESJ"
+    }
+
+  ]
+}
