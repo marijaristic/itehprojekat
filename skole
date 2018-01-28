@@ -1,5 +1,5 @@
 {
-  "name": "Republicko takmicenje 2016/2017",
+  "name": "Republicko takmicenje 2017/2018",
   "skole": [
     {
       "key": "lazakostic",
@@ -20,6 +20,46 @@
       "key": "elektrotehnickajagodina",
       "name": "Elektrotehnicka skola Jagodina",
       "code": "ESJ"
+    },
+    {
+      "key": "drugakragujevacka",
+      "name": "Druga Kragujevacka gimnazija",
+      "code": "DKG"
+    },
+    {
+      "key": "prvatehnicka",
+      "name": "Prva tehnicka skola Krusevac",
+      "code": "PTS"
+    },
+    {
+      "key": "treca beogradska",
+      "name": "Treca Beogradska Gimnazija",
+      "code": "TBG"
+    },
+    {
+      "key": "svetozarmarkovic",
+      "name": "Gimnazija Svetozar Markovic Jagodina",
+      "code": "GSM"
+    },
+    {
+      "key": "stevansremac",
+      "name": "Prva Gimnazija Stevan Sremac",
+      "code": "GSS"
+    },
+    {
+      "key": "gimnazijazmaj",
+      "name": "Gimnazija Jovan Jovanovic Zmaj",
+      "code": "JJZ"
+    },
+    {
+      "key": "petabeogradska",
+      "name": "Peta Beogradska Gimnazija",
+      "code": "PBG"
+    },
+    {
+      "key": "gimnazijakrusevac",
+      "name": "Gimnazija Krusevac",
+      "code": "GKS"
     }
 
   ]
